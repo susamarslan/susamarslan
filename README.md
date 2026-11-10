@@ -83,13 +83,4 @@ LLM tabanlı sistemler ve RAG çözümleri geliştiren bir **AI & Backend Engine
 
 ---
 
-## 📊 GitHub İstatistikleri
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=susamarslan&show_icons=true&hide_border=true&count_private=true" alt="GitHub istatistikleri"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susamarslan&layout=compact&hide_border=true" alt="En çok kullanılan diller"/>
-</p>
-
----
-
 <p align="center"><i>İş birliği ve fırsatlar için LinkedIn veya e-posta üzerinden ulaşabilirsin.</i></p>
